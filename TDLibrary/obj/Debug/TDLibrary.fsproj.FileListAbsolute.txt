@@ -1,0 +1,7 @@
+C:\Users\Aron\Documents\UnityProjects\DegsnesTD\TDLibrary\bin\Debug\TDLibrary.XML
+C:\Users\Aron\Documents\UnityProjects\DegsnesTD\TDLibrary\bin\Debug\TDLibrary.dll
+C:\Users\Aron\Documents\UnityProjects\DegsnesTD\TDLibrary\bin\Debug\TDLibrary.pdb
+C:\Users\Aron\Documents\UnityProjects\DegsnesTD\TDLibrary\bin\Debug\FSharp.Core.dll
+C:\Users\Aron\Documents\UnityProjects\DegsnesTD\TDLibrary\bin\Debug\FSharp.Core.xml
+C:\Users\Aron\Documents\UnityProjects\DegsnesTD\TDLibrary\obj\Debug\TDLibrary.dll
+C:\Users\Aron\Documents\UnityProjects\DegsnesTD\TDLibrary\obj\Debug\TDLibrary.pdb
