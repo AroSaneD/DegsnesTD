@@ -5,3 +5,14 @@ C:\Users\Aron\Documents\UnityProjects\DegsnesTD\TDLibrary\bin\Debug\FSharp.Core.
 C:\Users\Aron\Documents\UnityProjects\DegsnesTD\TDLibrary\bin\Debug\FSharp.Core.xml
 C:\Users\Aron\Documents\UnityProjects\DegsnesTD\TDLibrary\obj\Debug\TDLibrary.dll
 C:\Users\Aron\Documents\UnityProjects\DegsnesTD\TDLibrary\obj\Debug\TDLibrary.pdb
+C:\Users\Aron\Documents\UnityProjects\DegsnesTD\TDLibrary\bin\Debug\Assembly-CSharp.dll
+C:\Users\Aron\Documents\UnityProjects\DegsnesTD\TDLibrary\bin\Debug\UnityEditor.dll
+C:\Users\Aron\Documents\UnityProjects\DegsnesTD\TDLibrary\bin\Debug\UnityEngine.dll
+C:\Users\Aron\Documents\UnityProjects\DegsnesTD\TDLibrary\bin\Debug\UnityEngine.Networking.dll
+C:\Users\Aron\Documents\UnityProjects\DegsnesTD\TDLibrary\bin\Debug\UnityEngine.UI.dll
+C:\Users\Aron\Documents\UnityProjects\DegsnesTD\TDLibrary\bin\Debug\Assembly-CSharp.pdb
+C:\Users\Aron\Documents\UnityProjects\DegsnesTD\TDLibrary\bin\Debug\UnityEditor.xml
+C:\Users\Aron\Documents\UnityProjects\DegsnesTD\TDLibrary\bin\Debug\UnityEngine.xml
+C:\Users\Aron\Documents\UnityProjects\DegsnesTD\TDLibrary\bin\Debug\UnityEngine.Networking.xml
+C:\Users\Aron\Documents\UnityProjects\DegsnesTD\TDLibrary\bin\Debug\UnityEngine.UI.xml
+C:\Users\Aron\Documents\UnityProjects\DegsnesTD\TDLibrary\obj\Debug\TDLibrary.fsprojResolveAssemblyReference.cache
